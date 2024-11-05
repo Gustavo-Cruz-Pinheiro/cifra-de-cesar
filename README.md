@@ -27,4 +27,3 @@ Este projeto implementa um **Codificador/Decodificador** de texto utilizando as 
 Agora você está pronto para criptografar e descriptografar suas mensagens!
 
 ---
-
